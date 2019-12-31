@@ -1,0 +1,1 @@
+# mamta-config-server-in-pcf
